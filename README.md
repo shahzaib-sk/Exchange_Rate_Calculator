@@ -10,7 +10,7 @@ Easy-to-use interface.
 Technologies Used
 JavaScript (ES6)
 Open Exchange Rates API for currency data.
-HTML & CSS for user interface.
+HTML & CSS for user interface (UI).
 
 Enter the amount you wish to convert.
 Select the base currency (default is USD).
@@ -19,4 +19,4 @@ The conversion result will be displayed instantly.
 
 Example Conversion
 Convert 100 USD to EUR.
-Convert 500 INR to USD.
+Convert 100 PKR to USD.
